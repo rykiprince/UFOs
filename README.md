@@ -14,7 +14,7 @@ Every time the table filtered certain criteria, for instance, state, you will ha
 
 ### Additional recommendations for further development
 1. Change the search event method to refresh the whole search when any criteria change so that users don't need to reload the page every time.
-2. Now the search can only operate when the input filter match exact to the table content, which is a bit demanding to the users because they don't know the content at the very first place. We could probably add a dropdown options list for them to select instead of request input.
+2. Now the search can only operate when the input filter match **exactly** to the table content, which is a bit difficult to the users because they don't know the content at the very first place. We could probably add a **dropdown options list** for them to select instead of request input.
 ![Screen Shot 2021-09-05 at 4 50 41 PM](https://user-images.githubusercontent.com/66225050/132144724-6a3f5e50-08f7-44bb-8eb4-82eec7be78eb.png)
 
   
